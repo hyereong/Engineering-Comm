@@ -54,3 +54,14 @@ Link: [Google][googlelink]
 <img src="https://user-images.githubusercontent.com/50656146/123567090-5acc4900-d7fc-11eb-9f7c-766cdf733e28.gif" width="320px" height="240px"
 title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
+---
+
+___
+
+***
+
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | 뿡뿡이 | 51 | 9/13 |
