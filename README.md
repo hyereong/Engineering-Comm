@@ -30,3 +30,12 @@ public class BootSpringBootApplication {
   }
   
 }
+
+* 외부링크: <http://naver.com/>
+* 이메일링크: <lhotseshare@gmail.com>
+
+[link keyword][id]
+[id]: URL "Optional Title here"
+
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
