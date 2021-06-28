@@ -51,4 +51,4 @@ Link: [Google][googlelink]
 
  취소선: ~~cancelline~~
 
-https://user-images.githubusercontent.com/50656146/123567090-5acc4900-d7fc-11eb-9f7c-766cdf733e28.gif
+![Alt text](https://user-images.githubusercontent.com/50656146/123567090-5acc4900-d7fc-11eb-9f7c-766cdf733e28.gif)
