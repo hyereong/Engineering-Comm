@@ -39,3 +39,10 @@ public class BootSpringBootApplication {
 
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
+
+
+ 기울임: *single asterisks*
+ 기울임: _single underscores_
+ 진하게: **double asterisks**
+ 진하게: __double underscores__
+ 취소선: ~~cancelline~~
